@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="599e94f9-31e1-447d-beb5-c69ca3cf86cd" name="Default Changelist" comment="" />
+    <list default="true" id="599e94f9-31e1-447d-beb5-c69ca3cf86cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +50,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -67,6 +72,7 @@
     <option name="width" value="1774" />
     <option name="height" value="1329" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -79,6 +85,11 @@
             <path>
               <item name="honey_logs" type="b2602c69:ProjectViewProjectNode" />
               <item name="honey_logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="honey_logs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="honey_logs" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="honey_logs" type="b2602c69:ProjectViewProjectNode" />
@@ -140,12 +151,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563341279251</updated>
-      <workItem from="1563341281271" duration="1437000" />
+      <workItem from="1563341281271" duration="2856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1437000" />
+    <option name="totallyTimeSpent" value="2856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="1774" height="1329" extended-state="0" />
